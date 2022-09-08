@@ -4,7 +4,8 @@ This repository contains the sample that how to use the Drag and Drop the elemen
 
 ## Prerequisites
 
-Visual Studio 2022
+* Visual Studio 2022
+* Visual Studio Code
 
 ## How to run this application?
 
